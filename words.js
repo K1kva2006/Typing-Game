@@ -1,6 +1,7 @@
 const words = [
     "Cup",
     "Dick",
+    "Naniko",
     "Word",
     "Flash",
     "Suck",
