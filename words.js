@@ -70,6 +70,7 @@ const words = [
     "Nugo",
     "Valdo",
     "NaniKO",
+    "Salo",
     "Tika",
     "Saloou",
     "Qwertyuiop",
